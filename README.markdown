@@ -165,3 +165,20 @@ Designed to be completed in 15-30 minutes, these guides provide quick, hands-on 
 * [Working a Getting Started guide with STS](http://spring.io/guides/gs/sts/)
 
     Learn how to import a Getting Started guide with Spring Tool Suite (STS).
+
+
+# Tutorials
+
+Designed to be completed in 2-3 hours, these guides provide deeper, in-context explorations of enterprise application development topics, leaving you ready to implement real-world solutions.
+
+* [Designing and Implementing RESTful Web Services with Spring](http://spring.io/guides/tutorials/rest/)
+
+    Learn how to design and implement RESTful web services with Spring
+
+* [Data Access with Spring](http://spring.io/guides/tutorials/data/)
+
+    Learn how to use multiple data stores to persist and retrieve data with Spring
+
+* [Designing and Implementing a Web Application with Spring](http://spring.io/guides/tutorials/web/)
+
+    Learn how to design and implement a web app with Spring
